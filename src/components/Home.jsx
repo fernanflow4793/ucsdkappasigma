@@ -12,13 +12,6 @@ import React from 'react';
 import '../styles/home.css'
 
 class Home extends React.Component {
-    /**
-     * @constructor
-     */
-    constructor(props) {
-        super(props);
-    }
-
 
     /**
      * @description   render the menu
