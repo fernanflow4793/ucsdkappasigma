@@ -1,0 +1,20 @@
+{
+  "name": "ucsdkappasigma",
+  "version": "1.0.0",
+  "description": "Chapter website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-dev": "webpack --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernanflow4793/ucsdkappasigma.github.io.git"
+  },
+  "author": "Fernando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernanflow4793/ucsdkappasigma.github.io/issues"
+  },
+  "homepage": "https://github.com/fernanflow4793/ucsdkappasigma.github.io#readme"
+}
